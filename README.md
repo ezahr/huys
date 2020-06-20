@@ -1,5 +1,5 @@
-d# huys
-behouten huis
+# huys
+
 
 ![fietsenschuur](https://github.com/ezahr/huys/blob/master/pictures/fietsenschuur.png)
 
